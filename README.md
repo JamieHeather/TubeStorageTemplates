@@ -9,7 +9,8 @@ Features:
 * Similarly auto-populating field names
 * Auto-completed table section is protected to prevent accidental alterations
 
-The way I use these files is to enter details of all tubes added to the boxes as I add them, removing them when I remove them. Use of the list format makes typing and copying details across multiple entries easier, while using the two dimensional layout form makes it easier to print and annotate in the lab as I go.
+The way I use these files is to enter details of all tubes added to the boxes as I add them, removing them when I remove them. Use of the list format makes typing and copying details across multiple entries easier, while using the two dimensional layout form makes it easier to print and annotate in the lab as I go (selecting the specific area to print, and scaling to fit 1 page).
 
 I suggest putting these folders in a regularly backed up directory with version control, e.g. in a dropbox folder, as then previous versions will be saved too.
 
+Note: These files have been tested on Excel on Windows and a Mac, and in LibreOffice Calc on Ubuntu Linux, but not very much.
