@@ -1,5 +1,5 @@
 # JamieHeather / Tube Storage Templates
-## v1.1
+## v1.2
 
 To save myself the bother of re-making such templates in future (and perhaps some others as well!) I've left the raw templates that I use for keeping track of my freezer boxes here.
 
