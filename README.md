@@ -13,4 +13,4 @@ The way I use these files is to enter details of all tubes added to the boxes as
 
 I suggest putting these folders in a regularly backed up directory with version control, e.g. in a dropbox folder, as then previous versions will be saved too.
 
-Note: These files have been tested on Excel on Windows and a Mac, and in LibreOffice Calc on Ubuntu Linux, but not very much.
+Note: These files have been tested in Excel on Windows and Mac OS X, and in LibreOffice Calc on Ubuntu Linux (but not very much).
